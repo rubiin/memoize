@@ -1,6 +1,3 @@
-## About
-A simple and easy to use memoize lib
-
 ## Usage
 
 ```js
